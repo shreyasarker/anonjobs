@@ -1,0 +1,21 @@
+.loaderContainer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #000;
+}
+.loaderContainerSection {
+  left: 50%;
+  margin-left: -4em;
+}
+.loaderContainerSection,
+.loaderContainerSection:after {
+  width: 8em;
+  height: 8em;
+  display: block;
+  position: absolute;
+  top: 50%;
+  margin-top: -4.05em;
+}

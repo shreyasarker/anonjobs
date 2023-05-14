@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Foundry Gridnik";
+  src: url("foundrygridnik400.woff2")
+      format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Foundry Gridnik";
+  src: url("foundrygridnik700.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
