@@ -3,7 +3,7 @@ AnonJobs: Web3, Blockchain, Smart Contract, Crypto and Jobs using Laravel
 
 ### Create Remote Job Circulars Anonymously
 
-### Frontend Project Link: 
+### Frontend Project Link: https://anonjobs-frontend.vercel.app
 
 ## Support
 - Laravel 9
