@@ -39,6 +39,7 @@ Database: MongoDB
 - Sanctum Token Based Auth
 - Jenssegers Mongodb
 - Cloudinary SDK for Laravel
+- MailChimp for Subscription
 
 
 ## Frontend Usage
